@@ -1,0 +1,33 @@
+h1 {
+  position: relative;
+  top: 30px;
+}
+
+.EightBall-ball {
+  height: 250px;
+  width: 250px;
+  margin: auto;
+  position: relative;
+  top: 100px;
+  /* background-color: black; */
+  /* background-color: rgb(243, 2   42, 240); */
+  border-radius: 50%;
+  box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+}
+
+.EightBall-text {
+  position: relative;
+  line-height: 250px;
+  color: white;
+}
+
+.EightBall-button {
+  position: relative;
+  top: 130px;
+  width: 100px;
+  padding: 8px;
+  border: none;
+  cursor: pointer;
+}
